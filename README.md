@@ -42,9 +42,10 @@ The dataset used for this analysis was provided by incubator Hub, an educational
 ---
 ### Data cleaning and preparation
 In the initial phase of the data cleaning and preparation,we perform the following action;
-1. data loading and inspection
-2. handling missing variables
-3. data cleaning and fomatting
+1.  Microsoft Excel:
+- data loading and inspection of the entire dataset
+- Highlight the entire table to remove duplicates
+- Cleaned data is ready to perform key metrics, prepare pivot tables and charts like pie chart, bars, column charts that will aids decision making.
 
    ### Exploratory data analysis
    EDA involved the exploring of the data to answer some questions about the data such as;
