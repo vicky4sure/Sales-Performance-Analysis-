@@ -46,6 +46,12 @@ In the initial phase of the data cleaning and preparation,we perform the followi
 - data loading and inspection of the entire dataset
 - Highlight the entire table to remove duplicates
 - Cleaned data is ready to perform key metrics, prepare pivot tables and charts like pie chart, bars, column charts that will aids decision making.
+  
+2.  SQL; Stuctured Query Language:
+     - imported data from excel by creating a new database in SQL Server under LITA_DB
+     - Used SQL Commands to remove excess columns and rows directly
+     - Write queries on the data set provided to determine the toatl revenue per product and to determine the percentage of total sales contributed by
+       each region that will the retail store in their business decison making.
 
    ### Exploratory data analysis
    EDA involved the exploring of the data to answer some questions about the data such as;
