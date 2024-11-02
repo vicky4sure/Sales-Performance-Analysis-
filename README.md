@@ -1,4 +1,5 @@
 # Sales-Performance-Analysis-
+Project work
 Sales Performance Analysis for a Retail Store
 #
 
@@ -10,26 +11,31 @@ Tools used
 
 Data cleaning and preparation
 
-[Data analysis](#data-analysis)
-
 Exploratory data analysis
 
-### Project overview
-This data analysis project aims to generate insight into sales performance of the E commerce project over the past year. By analysing 
-the various parameters in teh data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around
-our data from the insights gotten and to know the best performance from our data
+[Data analysis](#data-analysis)
 
+Data visualization
+
+### Project overview
+The aim of thsi project is to analyze the sales performance of a retail store by exploring key metrics such as top-selling products,
+regional sales performance and monthly sales trends. Through this analysis, insight will be provided that will support business decisions.
 
 
 ### Data sources
-The primary source of Data used here is Data sales.csv and this is an open source data
+The dataset used for this analysis was provided by incubator Hub, an educational technology organization. The data includes sales records from a retail store for a learning purpose 
 ---
 ### Tools used
-- Microsoft Excel [Download Here](https://microsoft.com)
-   1. for data cleaning
-   2. for analysis
-   3. for data visualization
-- SQL -Structured Query Language of data
+1. Microsoft Excel [Download Here](https://microsoft.com)
+-  for data cleaning and preparation.
+- utilized excel formulars to calculate keys metrics such as Average (AVG) and total sales, total revenue by region.
+-   Created data visualizations using pivot table and charts to identify trends and insights.
+  
+ 2. SQL -Structured Query Language of data
+   - for quering the dataset to retrieve the total sales for each product category
+   - to calculate the highest selling product by total sales value
+   - To calculate the top 5 customers by total purchase amount
+  3. POWERBI -Power Business Intelligence
 - Github for portfolio building
 ---
 ### Data cleaning and preparation
