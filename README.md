@@ -52,7 +52,14 @@ In the initial phase of the data cleaning and preparation,we perform the followi
      - Used SQL Commands to remove excess columns and rows directly
      - Write queries on the data set provided to determine the toatl revenue per product and to determine the percentage of total sales contributed by
        each region that will the retail store in their business decison making.
-
+       
+3.  POWERBI ;Power Business Intelligence:
+    - Loaded a cleaned data via Get data option on Home Menu and entered Power Query Editor; to transform the data
+    - Examined the data column quality, column profile and column distibution to check for error, empty, uniqueness and distinct of the data
+    - Visual the data by creating dashboard to make use of tables, cards, matrix, slicers/filter and column, bar and pie chart etc. to determine the total revenue by region,
+      sum of quantity sold by product, sum of revenue by product to help in providing insight how the retail store has made progress over the years, through report view
+      To beautify the dashboard/report through the use of format tool (pencil icon) to make use of different size and style, padding, call out value, title, font size, colour, slicer etc. 
+      
    ### Exploratory data analysis
    EDA involved the exploring of the data to answer some questions about the data such as;
    - what is the overall sales trend
