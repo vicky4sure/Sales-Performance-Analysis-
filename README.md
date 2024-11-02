@@ -23,7 +23,7 @@ regional sales performance and monthly sales trends. Through this analysis, insi
 
 
 ### Data sources
-The dataset used for this analysis was provided by incubator Hub, an educational technology organization. The data includes sales records from a retail store for a learning purpose 
+The dataset used for this analysis was provided by incubator Hub, an educational technology organization. The data includes sales records from a retail store for a learning purpose.
 ---
 ### Tools used
 1. Microsoft Excel [Download Here](https://microsoft.com)
@@ -36,6 +36,8 @@ The dataset used for this analysis was provided by incubator Hub, an educational
    - to calculate the highest selling product by total sales value
    - To calculate the top 5 customers by total purchase amount
   3. POWERBI -Power Business Intelligence
+     - to create a dashboard that will visualizes the insight to all the work done on excel and sql
+     - to visualizes the sales overview, top performing product and sum of revenue by regional breakdown
 - Github for portfolio building
 ---
 ### Data cleaning and preparation
