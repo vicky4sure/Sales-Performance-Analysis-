@@ -64,7 +64,7 @@ In the initial phase of the data cleaning and preparation,we perform the followi
    EDA involved the exploring of the data to answer some questions about the data such as;
    - what is the overall sales trend
    - which product are top sellers
-   - what are the products on peak sales
+   - To determine the regional breakdown for the total revenue, quantity sold, average revenue and product
     ```
      ### Data analysis
      ---
