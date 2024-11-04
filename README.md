@@ -84,7 +84,9 @@ In the initial phase of the data cleaning and preparation,we perform the followi
 
 ![SALESDASHBOARD1](https://github.com/user-attachments/assets/44684e32-df25-4c3c-b37a-5a94fc0c0df7)
 
+![SALESDASHBOARD2](https://github.com/user-attachments/assets/36ac2996-7fa8-4fd2-a601-5b9d05701fd3)
 
+![SALESDASHBOARD2](https://github.com/user-attachments/assets/00c96124-b39a-4361-a855-dc0c5e7296e1)
 
 
 
