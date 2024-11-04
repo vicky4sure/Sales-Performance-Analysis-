@@ -79,8 +79,10 @@ In the initial phase of the data cleaning and preparation,we perform the followi
      WHERE CONDITION =TRUE
      ```
     ### Data visualization
+![SALESAVERAGE](https://github.com/user-attachments/assets/f841f237-e0a6-4737-8b01-22b7cad79980)
 
 
+![SALESDASHBOARD1](https://github.com/user-attachments/assets/44684e32-df25-4c3c-b37a-5a94fc0c0df7)
 
 
 
