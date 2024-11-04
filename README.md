@@ -3,13 +3,13 @@ Project work
 Sales Performance Analysis for a Retail Store
 #
 
+
+Data cleaning and preparation
 [Project overview](#project-overview)
 
 Data sources
 
 Tools used
-
-Data cleaning and preparation
 
 Exploratory data analysis
 
