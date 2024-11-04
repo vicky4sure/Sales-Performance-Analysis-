@@ -21,7 +21,7 @@ Data visualization
 The aim of this project is to analyze the sales performance of a retail store by exploring key metrics such as top-selling products,
 regional sales performance and monthly sales trends. Through this analysis, insight will be provided that will support business decisions.
 
-The project wills shows the revenue generated between the year 2023 and 2024 and compares the quantity of items sold between the said years. At the end of the analysis, the plotted charts coupled illustrated tables shows that  the highest revenue was gotten in the year 2023 with the sum of 1,105,330
+The project wills shows the revenue generated between the year 2023 and 2024 and compares the quantity of items sold between the said years. At the end of the analysis, the plotted charts coupled with illustrated tables shows that  the highest revenue was gotten in the year 2023 with the sum of 1,105,330 as compare to the year 2024 with the sum 995,760 on pivot table. The quantity sold in the year 2023 generated the highest revenue with the highest quantity of 38,681 as compare to 29,780 quantity sold in 2024 which might be as a result lesser trading period in the year 2024.  
 
 
 ### Data sources
