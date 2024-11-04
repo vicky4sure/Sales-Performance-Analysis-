@@ -92,7 +92,13 @@ In the initial phase of the data cleaning and preparation,we perform the followi
 
 ![SALESDATAVISUAL](https://github.com/user-attachments/assets/526c520f-4d82-4928-832e-6ea9f1628782)
 
+![SALESPIVOT1](https://github.com/user-attachments/assets/11bc69f4-78f1-4288-921f-3c4f9f6856a3)
 
+![SALESPIVOT2](https://github.com/user-attachments/assets/88986183-e337-42d9-b78c-cd9436af2a54)
+
+![SALESPIVOT3](https://github.com/user-attachments/assets/f93ff775-70da-4cd5-bfb7-80687aff97c4)
+
+![SALESREVENUEREGION](https://github.com/user-attachments/assets/93fc784a-583c-4932-bb4f-be1bcf94cd13)
 
    
    |heading1|heading2|heading3|
