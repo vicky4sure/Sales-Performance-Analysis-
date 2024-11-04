@@ -18,8 +18,10 @@ Exploratory data analysis
 Data visualization
 
 ### Project overview
-The aim of thsi project is to analyze the sales performance of a retail store by exploring key metrics such as top-selling products,
+The aim of this project is to analyze the sales performance of a retail store by exploring key metrics such as top-selling products,
 regional sales performance and monthly sales trends. Through this analysis, insight will be provided that will support business decisions.
+
+The project wills shows the revenue generated between the year 2023 and 2024 and compares the quantity of items sold between the said years. At the end of the analysis, the plotted charts coupled illustrated tables shows that  the highest revenue was gotten in the year 2023 with the sum of 1,105,330
 
 
 ### Data sources
