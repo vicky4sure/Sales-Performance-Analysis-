@@ -106,9 +106,13 @@ In the initial phase of the data cleaning and preparation,we perform the followi
 
 ![SQLSALES1](https://github.com/user-attachments/assets/366cb874-9200-4e5f-b308-a227758f678c)
 
+![SQLSALES2](https://github.com/user-attachments/assets/e6c75dd6-68eb-4b61-b1f5-c8442baa89cb)
 
+![SQLSALES3](https://github.com/user-attachments/assets/6bcd9b56-c3b5-456d-a9d7-5f6af9fcea67)
 
+![SQLSALES4](https://github.com/user-attachments/assets/2e41f256-f546-4f53-a0ee-129ced5b223d)
 
+![Uploading SQLSALES5.png…]()
 
 
    
