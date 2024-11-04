@@ -100,6 +100,17 @@ In the initial phase of the data cleaning and preparation,we perform the followi
 
 ![SALESREVENUEREGION](https://github.com/user-attachments/assets/93fc784a-583c-4932-bb4f-be1bcf94cd13)
 
+![SALESREVENUETOTAL](https://github.com/user-attachments/assets/7f1597e3-e3e0-4b8a-90f6-3a752dc37470)
+
+![SALESTABLE](https://github.com/user-attachments/assets/6e705a5e-1f54-4fbc-ab44-0f128debe1b7)
+
+![SQLSALES1](https://github.com/user-attachments/assets/366cb874-9200-4e5f-b308-a227758f678c)
+
+
+
+
+
+
    
    |heading1|heading2|heading3|
    |-------|---------|--------|
